@@ -1,0 +1,74 @@
+[
+  {
+    "minute": 12,
+    "description": "Dier goes into the book in what is the first yellow card of the game",
+    "type": "yellow_card",
+    "id": 1
+  },
+  {
+    "minute": 14,
+    "description": "Kane is desperate to catch Liverpool's Salah in the race for the Golden Boot, but he won't do it like that - the England man has just hammered a wild shot from range well off target",
+    "type": "missed_chance",
+    "id": 2
+  },
+  {
+    "minute": 17,
+    "description": "Now Ali gets a booking as he checks Sterling and the visitors have the free kick",
+    "type": "yellow_card",
+    "id": 3
+  },
+  {
+    "minute": 21,
+    "description": "AND THERE IS A GOAL! No mistake from Kane, as - after initially missing Son's cross - he gets back up off the turf to cushion in Trippier's pinpoint cut-back",
+    "type": "goal",
+    "id": 4
+  },
+  {
+    "minute": 28,
+    "description": "SAVE! Sanchez curls a free-kick towards the left-hand corner, but Lloris reacts quickly to jump to his right and make the stop",
+    "type": "save",
+    "id": 5
+  },
+  {
+    "minute": 29,
+    "description": "Pochettino's bravery has paid off. He kept two up top, even though Moura was about to go off a few minutes ago, and Tottenham's strike duo combined there brilliantly - Kane carving through United's shambolic lines with a neat pass, and Moura doing the rest",
+    "type": "goal",
+    "id": 6
+  },
+  {
+    "minute": 31,
+    "description": "SHOT!  Wide of the post from Rashford on this occasion after more smart work from the England international. Rashford could have scored about four already in this first half!",
+    "type": "missed_chance",
+    "id": 7
+  },
+  {
+    "minute": 35,
+    "description": "Little over 10 minutes of the first period remaining and not too much is happening at the moment. Spurs are having more of the ball without really threatening to score here.",
+    "type": "update",
+    "id": 8
+  },
+  {
+    "minute": 45,
+    "description": "HALF TIME:  MAN UNITED 1-1 TOTTENHAM",
+    "type": "update",
+    "id": 9
+  },
+  {
+    "minute": 47,
+    "description": "PENALTY!  VAR will look at it, but it looked very clear. Sissoko clips Rashford's legs.",
+    "type": "penalty",
+    "id": 10
+  },
+  {
+    "minute": 49,
+    "description": "GOAL!  Rashford finds the bottom corner with a cool finish to send United ahead!",
+    "type": "goal",
+    "id": 11
+  },
+  {
+    "minute": 57,
+    "description": "Rashford has been sensational tonight, and it would be fitting if the England international could score a hat-trick, in the eyes of the United fans at least. Tottenham, though, will be hoping that Alli can join Rashford on two goals before the night is out here",
+    "type": "update",
+    "id": 12
+  }
+]
