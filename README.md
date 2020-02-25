@@ -11,12 +11,26 @@ This was the requirement...
 ### Running it locally
 ###### I have an assumption that you've run a React Native project before, so no prerequisites will be listed.
 
+Inital commands
+
+```
+git clone git@github.com:ciawalsh/quickCommentaryApp.git
+cd quickCommentaryApp
+yarn install
+```
+
 To run on iOS
 
-```yarn ios```
+```
+cd ios && pod install
+cd ..
+yarn ios
+```
 
 To run on Android
-###### *** you will need a local.properties file added to your android folder that shows the path to your Android SDK. ***
+###### *** you will need a local.properties file added to your android folder that shows the path to your Android SDK. Should have a path that looks like... `sdk.dir=/Users/<username>/Library/Android/sdk` *** 
+###### *** you will also need an android emulator running as well *** 
+
 ```yarn android```
 
 ### Screenshots
